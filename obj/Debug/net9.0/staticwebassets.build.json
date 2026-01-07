@@ -1,0 +1,434 @@
+{
+  "Version": 1,
+  "Hash": "ArXgC0b97JrcM9EgRKH/FGvBjwdjZ5jQGCIPtJZmHRo=",
+  "Source": "server",
+  "BasePath": "_content/server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "server/wwwroot",
+      "Source": "server",
+      "ContentRoot": "/home/ramadan/Documents/Projects/Chat/server/wwwroot/",
+      "BasePath": "_content/server",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/ramadan/Documents/Projects/Chat/server/wwwroot/uploads/8eec9b99-b476-4762-a1d3-90aa8611c9d8.jpg",
+      "SourceId": "server",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/ramadan/Documents/Projects/Chat/server/wwwroot/",
+      "BasePath": "_content/server",
+      "RelativePath": "uploads/8eec9b99-b476-4762-a1d3-90aa8611c9d8#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wpgiha5ej3",
+      "Integrity": "JA7t9lfQViZ/kkpxMhda9fvjKGL81wx8tCE17jyIfqs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/8eec9b99-b476-4762-a1d3-90aa8611c9d8.jpg"
+    },
+    {
+      "Identity": "/home/ramadan/Documents/Projects/Chat/server/wwwroot/uploads/944049c2-7942-4b00-aabd-42f9d954b091.jpg",
+      "SourceId": "server",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/ramadan/Documents/Projects/Chat/server/wwwroot/",
+      "BasePath": "_content/server",
+      "RelativePath": "uploads/944049c2-7942-4b00-aabd-42f9d954b091#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wpgiha5ej3",
+      "Integrity": "JA7t9lfQViZ/kkpxMhda9fvjKGL81wx8tCE17jyIfqs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/944049c2-7942-4b00-aabd-42f9d954b091.jpg"
+    },
+    {
+      "Identity": "/home/ramadan/Documents/Projects/Chat/server/wwwroot/uploads/d4cd4317-e446-458c-ad5d-ce080608e7f1.png",
+      "SourceId": "server",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/ramadan/Documents/Projects/Chat/server/wwwroot/",
+      "BasePath": "_content/server",
+      "RelativePath": "uploads/d4cd4317-e446-458c-ad5d-ce080608e7f1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "li1418o7gr",
+      "Integrity": "reH6vFaypyEgBWcslu2hvAz6kr7dJ1rJQSzJ8in+MYI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/d4cd4317-e446-458c-ad5d-ce080608e7f1.png"
+    },
+    {
+      "Identity": "/home/ramadan/Documents/Projects/Chat/server/wwwroot/uploads/e1b486ea-7b47-4507-a525-19da5e3debd7.png",
+      "SourceId": "server",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/ramadan/Documents/Projects/Chat/server/wwwroot/",
+      "BasePath": "_content/server",
+      "RelativePath": "uploads/e1b486ea-7b47-4507-a525-19da5e3debd7#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "li1418o7gr",
+      "Integrity": "reH6vFaypyEgBWcslu2hvAz6kr7dJ1rJQSzJ8in+MYI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/e1b486ea-7b47-4507-a525-19da5e3debd7.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/8eec9b99-b476-4762-a1d3-90aa8611c9d8.jpg",
+      "AssetFile": "/home/ramadan/Documents/Projects/Chat/server/wwwroot/uploads/8eec9b99-b476-4762-a1d3-90aa8611c9d8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "640667"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JA7t9lfQViZ/kkpxMhda9fvjKGL81wx8tCE17jyIfqs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Mar 2025 13:07:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JA7t9lfQViZ/kkpxMhda9fvjKGL81wx8tCE17jyIfqs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/8eec9b99-b476-4762-a1d3-90aa8611c9d8.wpgiha5ej3.jpg",
+      "AssetFile": "/home/ramadan/Documents/Projects/Chat/server/wwwroot/uploads/8eec9b99-b476-4762-a1d3-90aa8611c9d8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "640667"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JA7t9lfQViZ/kkpxMhda9fvjKGL81wx8tCE17jyIfqs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Mar 2025 13:07:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wpgiha5ej3"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/8eec9b99-b476-4762-a1d3-90aa8611c9d8.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JA7t9lfQViZ/kkpxMhda9fvjKGL81wx8tCE17jyIfqs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/944049c2-7942-4b00-aabd-42f9d954b091.jpg",
+      "AssetFile": "/home/ramadan/Documents/Projects/Chat/server/wwwroot/uploads/944049c2-7942-4b00-aabd-42f9d954b091.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "640667"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JA7t9lfQViZ/kkpxMhda9fvjKGL81wx8tCE17jyIfqs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Mar 2025 12:45:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JA7t9lfQViZ/kkpxMhda9fvjKGL81wx8tCE17jyIfqs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/944049c2-7942-4b00-aabd-42f9d954b091.wpgiha5ej3.jpg",
+      "AssetFile": "/home/ramadan/Documents/Projects/Chat/server/wwwroot/uploads/944049c2-7942-4b00-aabd-42f9d954b091.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "640667"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JA7t9lfQViZ/kkpxMhda9fvjKGL81wx8tCE17jyIfqs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Mar 2025 12:45:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wpgiha5ej3"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/944049c2-7942-4b00-aabd-42f9d954b091.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JA7t9lfQViZ/kkpxMhda9fvjKGL81wx8tCE17jyIfqs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d4cd4317-e446-458c-ad5d-ce080608e7f1.li1418o7gr.png",
+      "AssetFile": "/home/ramadan/Documents/Projects/Chat/server/wwwroot/uploads/d4cd4317-e446-458c-ad5d-ce080608e7f1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "273492"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"reH6vFaypyEgBWcslu2hvAz6kr7dJ1rJQSzJ8in+MYI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Mar 2025 12:40:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "li1418o7gr"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/d4cd4317-e446-458c-ad5d-ce080608e7f1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-reH6vFaypyEgBWcslu2hvAz6kr7dJ1rJQSzJ8in+MYI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d4cd4317-e446-458c-ad5d-ce080608e7f1.png",
+      "AssetFile": "/home/ramadan/Documents/Projects/Chat/server/wwwroot/uploads/d4cd4317-e446-458c-ad5d-ce080608e7f1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "273492"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"reH6vFaypyEgBWcslu2hvAz6kr7dJ1rJQSzJ8in+MYI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Mar 2025 12:40:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-reH6vFaypyEgBWcslu2hvAz6kr7dJ1rJQSzJ8in+MYI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/e1b486ea-7b47-4507-a525-19da5e3debd7.li1418o7gr.png",
+      "AssetFile": "/home/ramadan/Documents/Projects/Chat/server/wwwroot/uploads/e1b486ea-7b47-4507-a525-19da5e3debd7.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "273492"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"reH6vFaypyEgBWcslu2hvAz6kr7dJ1rJQSzJ8in+MYI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Mar 2025 12:43:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "li1418o7gr"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/e1b486ea-7b47-4507-a525-19da5e3debd7.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-reH6vFaypyEgBWcslu2hvAz6kr7dJ1rJQSzJ8in+MYI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/e1b486ea-7b47-4507-a525-19da5e3debd7.png",
+      "AssetFile": "/home/ramadan/Documents/Projects/Chat/server/wwwroot/uploads/e1b486ea-7b47-4507-a525-19da5e3debd7.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "273492"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"reH6vFaypyEgBWcslu2hvAz6kr7dJ1rJQSzJ8in+MYI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Mar 2025 12:43:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-reH6vFaypyEgBWcslu2hvAz6kr7dJ1rJQSzJ8in+MYI="
+        }
+      ]
+    }
+  ]
+}
